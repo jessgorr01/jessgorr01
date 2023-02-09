@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @jessgorr01
+- 👋 Hi, I’m Jess!
 - 👀 I’m interested in sports, anime, and marvel
-- 🌱 I’m currently learning Computer Science at West Chester University
+- 🌱 I’m currently pusing a B.S in Computer Science at West Chester University
+- I also completed my ABET cerfticate in Cybersecurity this past fall!
+
+
+I am taking a special intrest in Data Science and Data Analytics!
 -
 - 📫 How to reach me email: jessgorr01@gmail.com
 

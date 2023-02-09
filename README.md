@@ -5,6 +5,7 @@
 - I am taking a special intrest in Data Science and Data Analytics! I chose to minor in apllied statistics, specializing in polls and experimental design.
 -
 - 📫 How to reach me email: jessgorr01@gmail.com
+- Here's my LinkedIn: https://www.linkedin.com/in/jessica-gorr-973b40192/
 
 <!---
 jessgorr01/jessgorr01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
